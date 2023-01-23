@@ -1,5 +1,6 @@
 # counterapp
 
+This pr included a command to not start a build via the pr trigger on Bitrise.
 Thisn here is a new Flutter project that has had the pr-test-branch merged with master :-)
 
 ## Getting Started
