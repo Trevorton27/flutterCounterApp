@@ -1,6 +1,6 @@
 # counterapp
 
-A new Flutter project.
+Thisn here is a new Flutter project that has had the pr-test-branch merged with master :-)
 
 ## Getting Started
 
